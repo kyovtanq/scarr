@@ -37,7 +37,7 @@ local mouse = plr:GetMouse()
 local Runserv = game:GetService("RunService")
 
 circle = Drawing.new("Circle")
-circle.Color = Color3.fromRGB(171,0,255)
+circle.Color = Color3.fromRGB(0,0,0)
 circle.Thickness = 0
 circle.NumSides = 732
 circle.Radius = 120
